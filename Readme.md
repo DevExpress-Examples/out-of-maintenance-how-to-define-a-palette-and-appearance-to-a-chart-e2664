@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Chart_Palettes/Form1.cs) (VB: [Form1.vb](./VB/Chart_Palettes/Form1.vb))
+<!-- default file list end -->
 # How to define a Palette and Appearance to a chart
 
 
